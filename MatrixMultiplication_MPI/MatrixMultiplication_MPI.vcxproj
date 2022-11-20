@@ -153,7 +153,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="lab1.cpp" />
+    <ClCompile Include="columnwise_multiplication.cpp" />
+    <ClCompile Include="rowwise_multiplication.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

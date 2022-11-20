@@ -18,8 +18,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lab1.cpp">
+    <ClCompile Include="rowwise_multiplication.cpp">
       <Filter>Source Files\Lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="columnwise_multiplication.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
